@@ -1,4 +1,8 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "MechaGM"
-theme: base16
+author = "Parker Harris Emerson"
+theme = "aether"
+
+[params]
+brand = "MechaGM"

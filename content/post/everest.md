@@ -1,13 +1,15 @@
 ---
-title: "Setup"
-date: 2019-05-20T20:33:13-07:00
+title: "Everest"
+date: 2019-05-20T22:24:50-07:00
+description: "A very short description goes here. I wonder what will happen. This description keeps getting longer and longer and longer and longer."
+categories: []
+featuredImage: "/img/everest.png"
+featuredImageDescription: ""
+dropCap: true
+displayInMenu: false
+displayInList: true
 draft: false
-categories: ["meta"]
-featuredImage: "/img/d20.png"
 ---
-
-Words go here.
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse leo mauris, eleifend vel interdum a, facilisis eget eros. Nullam volutpat lacinia lacus, ac lobortis orci convallis quis. Vestibulum interdum eros ut ligula varius varius ut gravida ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum blandit leo turpis, vel vehicula massa dapibus quis. Pellentesque sit amet nisi venenatis, congue dolor vitae, porta risus. Cras finibus elit ligula, et interdum eros facilisis a. Cras egestas, tortor pretium bibendum varius, ex ex aliquet augue, ac maximus lectus risus in dui. Donec feugiat nunc vel augue dignissim, et lobortis nibh ultrices. Sed in pulvinar est, vel cursus erat. Vivamus egestas porttitor velit sed volutpat. Nullam nec ornare odio. Phasellus malesuada nisi non lectus porta, eu facilisis nisi pharetra. Nulla dignissim vestibulum arcu id porttitor.
 
 Maecenas nec urna dignissim, convallis nibh sed, tincidunt nibh. Pellentesque mauris sem, viverra quis bibendum in, pharetra eget risus. Nullam in dignissim nunc. Vestibulum porttitor in elit at vestibulum. Integer neque ipsum, maximus in eros a, viverra interdum enim. Ut rhoncus malesuada augue, sed venenatis libero rhoncus eget. Proin hendrerit gravida lacus in pharetra. Suspendisse posuere in eros at faucibus.
