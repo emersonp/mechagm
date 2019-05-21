@@ -6,3 +6,4 @@ theme = "aether"
 
 [params]
 brand = "MechaGM"
+homeimg = "/img/home_button.png"
