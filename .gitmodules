@@ -2,5 +2,5 @@
   path = themes/base16 
   url = git://github.com/htdvisser/hugo-base16-theme.git
 [submodule "themes/aether"]
-	path = themes/ather
+	path = themes/aether
 	url = git://github.com/nicoruti/aether.git
