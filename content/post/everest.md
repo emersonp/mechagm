@@ -2,7 +2,7 @@
 title: "Everest"
 date: 2019-05-20T22:24:50-07:00
 description: "A very short description goes here. I wonder what will happen. This description keeps getting longer and longer and longer and longer."
-categories: []
+categories: ["misc"]
 featuredImage: "/img/everest.png"
 featuredImageDescription: ""
 dropCap: true

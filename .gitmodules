@@ -1,6 +1,6 @@
-[submodule "themes/base16"] 
-  path = themes/base16 
-  url = git://github.com/htdvisser/hugo-base16-theme.git
 [submodule "themes/aether"]
 	path = themes/aether
 	url = https://github.com/josephhutch/aether.git
+[submodule "themes/hugo-future-imperfect-slim"]
+	path = themes/hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
