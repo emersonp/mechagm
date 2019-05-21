@@ -2,8 +2,12 @@ baseURL = "/"
 languageCode = "en-us"
 title = "MechaGM"
 author = "Parker Harris Emerson"
-theme = "aether"
+theme = "story"
 
 [params]
-brand = "MechaGM"
-homeimg = "/img/home_button.png"
+    author = "Parker Harris Emerson"
+    
+[[menu.main]]
+  name = "Archives"
+  title = "Archives"
+  url = "/archives/"

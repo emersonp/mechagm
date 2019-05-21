@@ -3,7 +3,6 @@ title: "Setup"
 date: 2019-05-20T20:33:13-07:00
 draft: false
 categories: ["meta","misc"]
-featuredImage: "/img/d20.png"
 ---
 
 Words go here.

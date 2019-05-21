@@ -1,5 +1,5 @@
 ---
-title: "Mecha GM"
+title: "MECHA GM"
 date: the date
 description: "Role Playing in the World of Lancer"
 ---

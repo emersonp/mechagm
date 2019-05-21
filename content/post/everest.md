@@ -3,8 +3,9 @@ title: "Everest"
 date: 2019-05-20T22:24:50-07:00
 description: "A very short description goes here. I wonder what will happen. This description keeps getting longer and longer and longer and longer."
 categories: ["misc"]
-featuredImage: "/img/everest.png"
-featuredImageDescription: ""
+image: "/img/everest_header.png"
+thumbnail: "/img/everest_tn.png"
+credit: "https://www.deviantart.com/alex-ichim/art/Mech-442956279"
 dropCap: true
 displayInMenu: false
 displayInList: true
