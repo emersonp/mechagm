@@ -3,4 +3,4 @@
   url = git://github.com/htdvisser/hugo-base16-theme.git
 [submodule "themes/aether"]
 	path = themes/ather
-	url = https://github.com/nicoruti/aether.git
+	url = git://github.com/nicoruti/aether.git
