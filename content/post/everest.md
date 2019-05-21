@@ -6,7 +6,7 @@ categories: []
 featuredImage: "/img/everest.png"
 featuredImageDescription: ""
 dropCap: true
-displayInMenu: true
+displayInMenu: false
 displayInList: true
 draft: false
 ---
