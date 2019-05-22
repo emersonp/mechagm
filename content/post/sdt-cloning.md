@@ -1,6 +1,6 @@
 ---
 title: "Show, Don't Tell: Cloning"
-date: 2019-05-21T14:53:12-07:00
+date: 2019-05-22T07:53:12-07:00
 categories: ["Show, Don't Tell"]
 draft: false
 image: "img/sdt_cloning_header.png"
@@ -11,6 +11,8 @@ Lancer's lore is rich and nuanced. It's like a fire hose. But getting players to
 
 <!--more-->
 > _This post was written based on Lancer Pre-release 1.8.5, and may be out of date once Lancer is released._
+>
+> **Despite being published, this post is a draft solicited to the Lancer Discord community for feedback.**
 
 ### Cloning
 
@@ -135,7 +137,36 @@ _**Tier 3**_
 
 ---
 
+![Picture of Doctor Evil and Mini Me.](/img/cloning_minime.png)
+_It's a hard knock life._
+
 ### Mini-Me
+
+Cloning is entirely legal if you're willing to treat your clone as a new individual.
+
+Say, as an heir.
+
+The relativistic nature of the Lancer universe, combined with future medicine, means that the PCs can often encounter many generations of NPCs, all as adults. What if the leader of a close-knit group or family wished to ensure as complete loyalty in their heir as possible. By cloning themself.
+
+> **Lady Lamare-Fess of House Argent**  
+> Brutal, Sensual  
+> 
+> _House Argent is a small house, but uniquely positioned as the House of Smoke's most smuggler-connected network of families. The Baroness Fess, Third of Her Name, has maneuvered her House into a place of great strength within Argent, and is not prepared to let her work go to waste._
+>
+> _She cloned herself raised the clone as her daughter. The Lady Lamare has the guile and natural talents of her 'mother', paired with all the confidence that comes from knowing that 'she' has already succeeded once. When the Baroness Fess dies, which is likely to be soon, the Lady Lamare will oversee an operation generations in the making, that will likely result in House Argent being subsumed into House Fess._
+
+---
+
+![Still from the original Stepford Wives.](/img/cloning_stepford.png)
+_Smith-Shimano Community Tailoring. Now available in five shades of creepy._
+
+> _The worlds under SSC’s direct control are, generally, small worlds -- atmospheric moons and pleasant temperate worlds that are lightly developed, with tightly controlled populations that are guided towards arranged couplings in order to create biome-specific lines of bespoke colony seed. The people on these worlds are aware of SSC’s mission, and most are content with their situation. Save for a donation of genetic material (a few hairs, a drop of blood) and a cultural insistence on arranged coupling, life on a Constellation World is largely similar to that of life on a given non-SSC core world._
+>
+> &mdash; **Lancer Core Rules**
+
+Not all uses of cloning in Lancer are nefarious or transactional or inhumane. Sometimes, small colonies are thrust forward in size with the use of clones. Once the initial infrastructure is in place, batches of clones can be added to the colony in order to accelerate its natural growth.
+
+A small SSC colony (15,000 to 50,000) people could highlight the more mundane uses of cloning. An entire city dominated by the bespoke clones of others. Likely falling along hard generational lines as the NHP in charge decided the community was ready for an influx of people. While each genetically unique, all bearing the same SSC-curated trates needed for success on this new world.
 
 ### Welcome to Stepford
 
