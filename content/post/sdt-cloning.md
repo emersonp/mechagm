@@ -1,9 +1,11 @@
 ---
 title: "Show, Don't Tell: Cloning"
 date: 2019-05-21T14:53:12-07:00
+categories: ["Show, Don't Tell"]
 draft: false
 image: "img/sdt_cloning_header.png"
 thumbnail: "img/sdt_cloning_tn.png"
+
 ---
 Lancer's lore is rich and nuanced. It's like a fire hose. But getting players to read lore is an uphill battle. It's better to show than to tell. Here are a handful of ways to show your players how cloning works in Lancer. Drink deep.
 
@@ -33,7 +35,8 @@ _Long live the Queen._ Or feel free to take it a step further. Kill an NPC. Some
 
 Note that this one is tricky, because the subtle hints that someone is not the same can become lost when narrated by a GM, unless the GM is particularly heavy handed about it. Either go with one of the physical changes (vat scar, vestigial arm), or do it to a player beloved by the NPCs who has been around long enough for their quirks to become known; then reverse them.
 
-![alt text](/img/cloning_flesh.png "A cybersurgery suite.")
+![A cybesurgery suite.](/img/cloning_flesh.png)
+_A cybersurgery suite. Where clones are turned into parts._
 
 ### Long Live the New Flesh
 

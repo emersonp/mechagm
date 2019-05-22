@@ -6,6 +6,8 @@ theme = "story"
 
 [params]
     author = "Parker Harris Emerson"
+    classes = ["feature-figcaption","feature-figcaption-hidden",
+      "feature-figlink","feature-tablecaption"]
     
 [[menu.main]]
   name = "Archives"
