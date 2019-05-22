@@ -35,12 +35,105 @@ _Long live the Queen._ Or feel free to take it a step further. Kill an NPC. Some
 
 Note that this one is tricky, because the subtle hints that someone is not the same can become lost when narrated by a GM, unless the GM is particularly heavy handed about it. Either go with one of the physical changes (vat scar, vestigial arm), or do it to a player beloved by the NPCs who has been around long enough for their quirks to become known; then reverse them.
 
+---
+
 ![A cybesurgery suite.](/img/cloning_flesh.png)
 _A cybersurgery suite. Where clones are turned into parts._
 
 ### Long Live the New Flesh
+> _Partial cloning is common enough in the medical field. Tissue, major organs, viable follicles, limbs, and bodily fluids -- nothing capable of conscious or unconscious thought -- are all commonly cloned in order to provide a donor exact-match replacements, generally to satisfy medical requirements. Again in this case, donors must display informed consent as determined by their culture or state before even this type of cloning is allowed._
+>
+> &mdash; **Lancer Core Rules**
+
+Cloned tissue as a cure-all to injury might be the simplest way to show players how pervasive cloning is in Lancer. Make the players use it.
+
+Narrative Complications can be as varied as the predicaments the players find themselves in. One potential Compliaction is the total destruction of their body. Don't _kill_ a player, but when the circumstances are right, a potential complication can be a _lot_ Harm.
+
+The usual Harm is 1-2 damage, though the nature of what the player is attempting can increase that. A GM shouldn't usually cause excessive Harm without telegraphing the danger, _but_, I think they can do so if they immediately offer amelioration. If a player fails a roll to sneak into an SSC attache's offices, maybe instead of getting caught, an automated security system sprays them with a weaponized flesh-eating virus.
+
+Leaving them without flesh.
+
+That's a lot of pain and a lot of Harm, and not usually what a player might expect from a failed **Unseen and Unheard** roll. But if the mission's patron immediately pays for a new skinsuit, that's a much fairer, and more interesting, outcome. Especially if the players start to wonder why their patron has all this cloned DNA of them waiting on standby.
+
+---
+
+![Clone troopers.](/img/cloning_clone_troopers.png)
+_Legions of expendable clone soldiers are a staple of science fiction._
 
 ### Clone Troopers
+
+> _"The Harrison Armory Impossible Soldiers are far more than mere flash clones. Battle ready in under five years, these soldiers have the volition, creativity, and tactical cunning to win you the war you can't lose. With a cleaner genetic profile than any other brand, and an expected life span of almost 100 years[1], these are the clones of tomorrow._
+> 
+> [1] _Objective._
+
+There are still plenty of armies of flash clones in use by Harrison Armory, the Karrakin Trade Baronies, and any syndicate or despot willing to do something illegal. Gunning down a field full of soldiers, _all of whom look exactly the same_, can drive home the point that despite the rhetoric from Union, clones are still very much a way of life on the Far Rim.
+
+| HP | Evade | E-D | Heat | H | A | S | E | Armor | Spd | Sense | Save | Size |
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+| 10 | 8 | 8 | - | - | - | - | - | 0 | 4 | 5 | 10 | 4 (indiv: 1/2) |
+
+_**Harrison Armory Flash Clone Infantry Squad**  
+Squad, Biological_
+
+Infantry squads make all mech saves or checks with +2/tier
+
+**Primary squad weapon**  
+Main Rifle  
+Range 10  
++2 vs evasion/tier  
+3/4/5 energy damage.
+This weapon can be fired three times when the squad attacks. If the squad is under ½ HP, it can only be fired once.
+
+**Anti-mech squad weapon**  
+Heavy Cannon  
+Range 20 
++1 vs evasion/tier  
+4/5/6 AP explosive damage.
+
+**Disciplined**  
+Trait  
+The squad doesn't lose attacks for being under 1/2 HP.
+
+**Predictable**  
+Trait  
+If the squad moves or boosts during its turn, all enemies gain +1 Accuracy when attacking it until the start of the squad's next turn.
+
+**Weak**  
+Trait  
+Squads cannot have more than 1 structure or heat capacity. They take energy damage when they take heat.
+
+**Strength in numbers**  
+Trait  
+Squads have resistance to all damage that is not from line, blast, or cone attacks. They are immune to grapple or ram, cannot grapple or ram, and are immune to the knock back, stun, and shut down conditions.
+
+**Split HP**  
+Trait  
+Squads have a large number of members operating together. Once a certain amount of damage is done to the squad, one of the members is destroyed (indicated in the profile). Once a squad is under half HP, it loses some of its attacks to represent this.
+
+**Spread out**  
+Trait  
+Squads occupy a square area equal to their size for purposes of targeting. Each individual member must stay in this area. For the purposes of determining cover and obstruction, use the size of each individual member, not the size of a squad as a whole.
+
+**Exclusive templates**  
+Squads cannot take the Grunt, Veteran, or Ultra templates (they can still take Elite, but don’t gain structure)
+
+| HP | Evade | E-D | Heat | H | A | S | E | Armor | Spd | Sense | Save | Size |
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+| 15 | 8 | 8 | - | - | - | - | - | 0 | 4 | 5 | 12 | 4 (indiv: 1/2) |
+
+_**Tier 2**_
+
+&nbsp;
+
+| HP | Evade | E-D | Heat | H | A | S | E | Armor | Spd | Sense | Save | Size |
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+| 20 | 8 | 8 | - | - | - | - | - | 0 | 4 | 5 | 14 | 4 (indiv: 1/2) |
+
+_**Tier 3**_
+
+&nbsp;
+
+---
 
 ### Mini-Me
 
