@@ -158,6 +158,8 @@ The relativistic nature of the Lancer universe, combined with future medicine, m
 ![Still from the original Stepford Wives.](/img/cloning_stepford.png)
 _Smith-Shimano Community Tailoring. Now available in five shades of creepy._
 
+### Welcome to Stepford
+
 > _The worlds under SSC’s direct control are, generally, small worlds -- atmospheric moons and pleasant temperate worlds that are lightly developed, with tightly controlled populations that are guided towards arranged couplings in order to create biome-specific lines of bespoke colony seed. The people on these worlds are aware of SSC’s mission, and most are content with their situation. Save for a donation of genetic material (a few hairs, a drop of blood) and a cultural insistence on arranged coupling, life on a Constellation World is largely similar to that of life on a given non-SSC core world._
 >
 > &mdash; **Lancer Core Rules**
@@ -165,6 +167,4 @@ _Smith-Shimano Community Tailoring. Now available in five shades of creepy._
 Not all uses of cloning in Lancer are nefarious or transactional or inhumane. Sometimes, small colonies are thrust forward in size with the use of clones. Once the initial infrastructure is in place, batches of clones can be added to the colony in order to accelerate its natural growth.
 
 A small SSC colony (15,000 to 50,000) people could highlight the more mundane uses of cloning. An entire city dominated by the bespoke clones of others. Likely falling along hard generational lines as the NHP in charge decided the community was ready for an influx of people. While each genetically unique, all bearing the same SSC-curated trates needed for success on this new world.
-
-### Welcome to Stepford
 
