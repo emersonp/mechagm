@@ -11,8 +11,6 @@ Lancer's lore is rich and nuanced. It's like a fire hose. But getting players to
 
 <!--more-->
 > _This post was written based on Lancer Pre-release 1.8.5, and may be out of date once Lancer is released._
->
-> **Despite being published, this post is a draft solicited to the Lancer Discord community for feedback.**
 
 ### Cloning
 
