@@ -26,7 +26,7 @@ When you're cloned, you come back with a quirk. Make sure one of your NPCs is cl
 > _Fierce, Gracious_  
 > The IPSNS _Mysterious Challenger_ has many mechanics, but none as talented as Natalia. How she got so good, nobody knows, but if you spend enough time with her, you know that her real age is old. Some say she was around during SecComm.
 > 
-> It also quickly becomes clear that something's wrong. She'll often forget peoples' names in one conversation, then in the next knwo things she shouldn't. She'll cackle, then grab you and tell you how you're going to die.
+> It also quickly becomes clear that something's wrong. She'll often forget peoples' names in one conversation, then in the next know things she shouldn't. She'll cackle, then grab you and tell you how you're going to die.
 
 
 #### The Queen is Dead...
@@ -166,5 +166,5 @@ _Smith-Shimano Community Tailoring. Now available in five shades of creepy._
 
 Not all uses of cloning in Lancer are nefarious or transactional or inhumane. Sometimes, small colonies are thrust forward in size with the use of clones. Once the initial infrastructure is in place, batches of clones can be added to the colony in order to accelerate its natural growth.
 
-A small SSC colony (15,000 to 50,000) people could highlight the more mundane uses of cloning. An entire city dominated by the bespoke clones of others. Likely falling along hard generational lines as the NHP in charge decided the community was ready for an influx of people. While each genetically unique, all bearing the same SSC-curated trates needed for success on this new world.
+A small SSC colony (15,000 to 50,000) people could highlight the more mundane uses of cloning. An entire city dominated by the bespoke clones of others. Likely falling along hard generational lines as the NHP in charge decided the community was ready for an influx of people. While each genetically unique, all bearing the same SSC-curated traits needed for success on this new world.
 
