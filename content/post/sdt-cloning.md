@@ -1,7 +1,7 @@
 ---
-title: "Show, Don't Tell: Cloning"
+title: "Show (Don't Tell): Cloning"
 date: 2019-05-22T07:53:12-07:00
-categories: ["Show, Don't Tell"]
+categories: ["Show (Don't Tell)","Adversaries"]
 draft: false
 image: "img/sdt_cloning_header.png"
 thumbnail: "img/sdt_cloning_tn.png"
