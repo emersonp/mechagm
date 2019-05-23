@@ -26,7 +26,7 @@ Three more origins on my quest to chronicle all 200. **Adrenaline Junkies**, tak
 
 ---
 
-### 3.) People
+### 3.) Chaplain Corps
 
 **Who Are We?** _Union regulars, career soldiers_  
 **Who Gives Us Orders?** _The Hierophant or high priest_
