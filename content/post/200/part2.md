@@ -1,5 +1,5 @@
 ---
-title: "200 Origins: Part 2"
+title: "200 Origins: Part 2 (Mirrorsmoke)"
 date: 2019-05-23T07:45:00-07:00
 categories: ["200 Origins"]
 image: "img/200_origins_header.png"
@@ -26,7 +26,7 @@ This is about the simplest Lancer campaign concept you can get. The player chara
 
 Though that simplicity comes with a little bit of risk as a GM: that lack of overarching story can lead to a lack of overarching _motivation_. If your players like mech combat for the sake of mech combat, it's a low risk. But if your players want more story, you'll have to come up with some driving subplots based on each character's backstory.
 
-![Zosima Mao](/img/200_origins_part1_mao.png# fr ba ma-4 )
+![Zosima Mao](/img/200_origins_part2_mao.png# fr ba ma-4 )
 
 #### The Patron: Zosima Mao
 

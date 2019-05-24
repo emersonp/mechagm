@@ -192,6 +192,9 @@ body.feature-fignum table caption::before {
   counter-increment: table-counter;
   content: "Table " counter(table-counter) ". ";
 }
+h4 {
+  text-decoration: underline;
+}
 .feature-h3-cl h3 {
   clear: left;
 }
